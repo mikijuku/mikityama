@@ -1,4 +1,10 @@
 //
+
+
+
+
+
+
 //  AppDelegate.swift
 //  mikityama
 //
